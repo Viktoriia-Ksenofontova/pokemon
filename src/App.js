@@ -15,7 +15,6 @@ function App() {
         title="Layout 1"
         descr="Thit is Layout 1 description"
         urlBg={image1}
-        colorBg=""
       />
       <Layout
         title="Layout 2"
